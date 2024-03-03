@@ -1,9 +1,9 @@
-import { Elysia } from "elysia";
+import { Elysia } from 'elysia'
 
-const app = new Elysia().get("/", () => {
-  return "Hello word";
-});
+const app = new Elysia().get('/', () => {
+  return 'Hello word'
+})
 
 app.listen(3333, () => {
-  console.log("http server running!");
-});
+  console.log('http server running!')
+})
