@@ -8,6 +8,13 @@
       "when": 1709420479085,
       "tag": "0000_low_zodiak",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709490399272,
+      "tag": "0001_acoustic_dark_beast",
+      "breakpoints": true
     }
   ]
 }
